@@ -78,3 +78,32 @@ margin-bottom: 13px;
 
 
 }
+#card-box{
+    width: 720px;
+    margin: 90 auto;
+}
+#card-box .info{
+
+}
+
+#card-box .title{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 25px;
+font-weight: 700;
+line-height: 33px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+#card-box .subtitle{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.6;}
+
+
